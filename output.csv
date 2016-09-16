@@ -1,0 +1,6 @@
+Country,City,Property,Address,First description,Second description,Features,Number of beds,Number of room types,Room type,Room name,Bathroom,Price,Sold out,unit,Review
+Canada,Toronto,Parkside Student Residence,"111 Carlton Street, Toronto, M5B 2G3",NA,NA,NA,500,5,Private Room,2 Bedroom 1 Bathroom - Standard Single,Shared bathroom,"CA$1,399",NA,Per Month,NA
+Canada,Toronto,Parkside Student Residence,"111 Carlton Street, Toronto, M5B 2G3",NA,NA,NA,500,5,Private Room,4 Bedroom 2 Bathroom Penthouse Suite,Shared bathroom,"CA$1,874",NA,Per Month,NA
+Canada,Toronto,Parkside Student Residence,"111 Carlton Street, Toronto, M5B 2G3",NA,NA,NA,500,5,Private Room,2 Bedroom 1 Bathroom Penthouse Suite,Shared bathroom,"CA$1,974",NA,Per Month,NA
+Canada,Toronto,Parkside Student Residence,"111 Carlton Street, Toronto, M5B 2G3",NA,NA,NA,500,5,Entire Place,Studio - Standard Double,Shared bathroom,"CA$1,129",NA,Per Month,NA
+Canada,Toronto,Parkside Student Residence,"111 Carlton Street, Toronto, M5B 2G3",NA,NA,NA,500,5,Entire Place,Studio - Private Single,Private bathroom,NA,sold out,NA,NA
